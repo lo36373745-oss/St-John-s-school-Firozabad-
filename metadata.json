@@ -1,0 +1,6 @@
+{
+  "name": "Nexora AI",
+  "description": "Your AI. Your Knowledge. Your Future. All-in-one AI assistant, NCERT study platform, school assistant, and productivity tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
